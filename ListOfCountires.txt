@@ -1,0 +1,87 @@
+Thailand: Laos, Myanmar, Malaysia, Cambodia
+Laos: Thailand, Myanmar, Vietnam, China, Cambodia
+Myanmar: China, Thailand, Laos
+Vietnam: Laos, Phillipines, Cambodia
+Malaysia: Singapore, Indonesia, Thailand 
+Singapore: Malaysia
+Philippines: Taiwan, Vietnam, Indonesia
+Indonesia: Malaysia, Philippines
+Cambodia: Thailand, Laos, Vietnam
+Taiwan: China, Philippines
+China: North Korea, Myanmar, Laos, Mongolia, India, Nepal, Central Asia, Taiwan
+Mongolia: China, Central Asia, Russia
+North Korea: South Korea, China, Russia
+Russia: Mongolia, Central Asia, North Korea, Central Europe, Ukraine, Antarctica, Finland
+South Korea: North Korea, Japan
+Japan: South Korea, Pacific Ocean
+Pacific Ocean: United States, Japan 
+United States: Canada, Cuba, Mexico, Pacific Ocean, North Atlantic Ocean
+Cuba: United States, North Atlantic Ocean
+Mexico: United States, Guatemala 
+Guatemala: Mexico, Central America
+Central America: Guatemala, Colombia 
+Colombia: Central America, Peru, Brazil, Venezuela
+Venezuela: Colombia, Brazil
+Peru: Colombia, Bolivia, Brazil, Chile
+Bolivia: Peru, Brazil, Chile, Argentina 
+Chile: Peru, Bolivia, Argentina
+Argentina: Chile, Bolivia, Brazil
+Brazil: Bolivia, Peru, Colombia, Venezuela, Argentina
+India: Nepal, China, Pakistan, Sri Lanka
+Nepal: China, India
+Central Asia: Pakistan, Iran, Russia, China, Mongolia, Turkey
+North Atlantic Ocean: United States, Canada, Portugal, Spain, Morocco, Cuba, Ireland
+Canada: North Atlantic Ocean, Greenland, United States
+Greenland: Iceland, Canada
+Iceland: Greenland, United Kingdom, Norway
+United Kingdom: Ireland, Iceland, France, North Sea
+Ireland: United Kingdom, North Atlantic Ocean
+North Sea: Norway, United Kingdom
+Norway: North Sea, Sweden, Denmark, Iceland, Finland
+Sweden: Norway, Finland, Denmark
+Finland: Sweden, Russia, Norway
+Denmark: Sweden, Norway, Germany
+Germany: France, Denmark, Poland, Central Europe, Switzerland, Netherlands, Austria
+France: Germany, United Kingdom, Spain, Italy, Belgium, Switzerland
+Belgium: France, Netherlands
+Netherlands: Germany, Belgium
+Spain: France, Morocco, Portugal,Mediterranean Sea, North Atlantic Ocean
+Portugal: North Atlantic Ocean, Spain
+Italy: Central Europe, Switzerland, Austria, Mediterranean Sea, France, 
+Mediterranean Sea: Italy, Greece, Spain, Morocco, Algeria, Libya, Turkey, Egypt
+Austria: Hungary, Italy, Germany, Central Europe, Switzerland 
+Central Europe: Turkey, Greece, Russia, Poland, Ukraine, Hungary , Germany, Italy, Austria
+Poland: Ukraine, Germany, Central Europe
+Switzerland: Germany, France, Italy, Austria, France
+Hungary: Central Europe, Austria
+Morocco: Spain, Mediterranean Sea, Algeria, Western Sahara, North Atlantic Ocean
+Western Sahara: Morocco 
+Algeria: Mediterranean Sea, Morocco, Libya, Mali, Niger
+Mali: Algeria, Niger
+Niger: Nigeria, Mali, Algeria, Libya, Chad, 
+Nigeria: Niger, Central Africa, Chad
+Chad: Libya, Niger, Sudan, Nigeria, Central Africa
+Central Africa: Chad, Nigeria, Sudan, Red Sea, South Africa, Madagascar
+Madagascar: Central Africa, India Ocean
+Sri Lanka: India Ocean, India
+India Ocean: Madagascar, Sri Lanka, Australia 
+Red Sea: Central Africa, Sudan, Egypt, Israel, Jordan, Bahrain, Saudi Arabia, Yemen
+Sudan: Chad, Central Africa, Red Sea, Libya, Egypt
+Libya: Mediterranean Sea, Algeria, Niger, Chad, Sudan, Egypt 
+Egypt: Sudan, Libya, Red Sea, Mediterranean Sea, Israel, Jordan
+Jordan: Egypt, Israel, Syria, Iraq, Bahrain, Red Sea
+Bahrain: Red Sea, Jordan, Saudi Arabia, Iraq
+Saudi Arabia: Bahrain, Yemen, Red Sea, 
+South Africa: Central Africa, Antarctica
+Antarctica: South Africa, Russia
+Australia: India Ocean, New Zealand
+New Zealand: Australia 
+Yemen: Red Sea, Saudi Arabia
+Iraq: Bahrain, Jordan, Syria, Iran, Turkey 
+Turkey: Mediterranean Sea, Iraq, Syria, Central Europe, Greece, Central Asia
+Greece: Turkey, Mediterranean Sea, Central Europe
+Ukraine: Poland, Russia, Central Europe
+Syria: Jordan, Iraq, Turkey
+Israel: Red Sea, Egypt, Jordan
+Iran: Central Asia, Iraq
+Pakistan: India, Central Asia 
